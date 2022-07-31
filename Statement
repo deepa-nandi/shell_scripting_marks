@@ -1,3 +1,5 @@
+PROBLEM STATEMENT:
+
 A shell script to read the marks of a student and hence compute the grade.
 1. If percentage of marks >= 60 and <=100, then print "FIRST CLASS".
 2. If percentage of marks >= 45 and <=60, then print "SECOND CLASS".
@@ -5,6 +7,7 @@ A shell script to read the marks of a student and hence compute the grade.
 4. If percentage of marks < 30, then print "FAILED".
 
 PROBLEM ANALYSIS:
+
 Enter marks to the shell program and the script will try to find out the grade by using series of "IF ELSE" condition checking.
 Each IF ELSE condition check for marks for a particular grade and if it is true then all checking (IF ELSE) are omitted.
 The IF statement allows to control if a program enters a section of code or not based on whether a given condition is TRUE or FALSE.
